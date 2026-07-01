@@ -95,11 +95,7 @@ The simulation confirms:
 
 Waveform:
 
-<img width="1860" height="237" alt="uart_top_waveform" src="https://github.com/user-attachments/assets/22995d3e-6b27-4931-8e09-3a15bb71a70b" />
-
-
-
----
+![alt text](Waveform/uart_top_waveform.png)
 
 ## Tools Used
 
