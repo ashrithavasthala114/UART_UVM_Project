@@ -95,7 +95,9 @@ The simulation confirms:
 
 Waveform:
 
-> *(Insert uart_top_waveform.png here)*
+<img width="1860" height="237" alt="uart_top_waveform" src="https://github.com/user-attachments/assets/22995d3e-6b27-4931-8e09-3a15bb71a70b" />
+
+
 
 ---
 
