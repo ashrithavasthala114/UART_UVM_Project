@@ -1,0 +1,9 @@
+ PARITY REGRESSION SUMMARY 
+# ==========================================
+# PARITY MODE = NONE
+# STOP_BITS    = 1
+# PASS COUNT   = 7
+# FAIL COUNT   = 0
+# 
+# ALL TEST CASES PASSED
+# 
