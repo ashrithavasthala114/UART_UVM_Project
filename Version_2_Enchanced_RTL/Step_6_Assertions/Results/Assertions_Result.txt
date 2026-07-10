@@ -1,0 +1,12 @@
+UART ASSERTIONS REGRESSION
+
+Assertions Checked:
+1. tx_start -> tx_busy
+2. tx_busy eventually clears
+3. parity_error && framing_error never active together
+4. rx_done -> no framing_error
+
+PASS COUNT = 7
+FAIL COUNT = 0
+
+ALL ASSERTIONS PASSED
